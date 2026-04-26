@@ -1,5 +1,0 @@
-GEOIP_POPUP = "xpath=//div[contains(@id, 'geoip-banner')]"
-GEOIP_CLOSE_BTN = "xpath=//span[contains(@class, 'geoip-close-icon')]"
-PRIVACY_POPUP = "xpath=//section[contains(@id, 'shopify-pc__banner')]"
-MAIN_PAGE = "xpath=//body[contains(@class, 'home limoniapps-discountninja-block-stop')]"
-GO_HOME_BTN = "xpath=//a[contains(@aria-label, 'Go to homepage')]"
