@@ -20,7 +20,7 @@ jobs:
     - name: Install Playwright Browsers
       run: playwright install --with-deps
     - name: Run flake8
-      run: 
+      run: |
         pip install flake8
         flake8 .
     - name: Run Playwright tests
